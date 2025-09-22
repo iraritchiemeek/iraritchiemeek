@@ -27,5 +27,5 @@ Over the past decade, I've delivered solutions across various domains:
 More details about my work and portfolio can be found on my website.
 
 ## Get In Touch
-**Website:** [ira.co.nz](https://ira.co.nz)  
+**Email:** iraritchiemeek@gmail.com
 **Available for:** Full-stack development, UX/UI design, technical consulting
