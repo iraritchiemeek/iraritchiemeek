@@ -6,4 +6,4 @@ Available for new projects.
 
 ## What I work with
 
-Next.js, Payload CMS, PostgreSQL, TypeScript, Hono, Rails, React, Python. Hosted on Vercel, Cloudflare, or Heroku depending on the project.
+Next.js, Payload CMS, PostgreSQL, TypeScript, Hono, Rails, React, Claude. Hosted on Vercel, Cloudflare, or Heroku depending on the project.
